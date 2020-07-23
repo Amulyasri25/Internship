@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feed"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="Feed" />
+
+    <item
+        android:id="@+id/search_bar"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"/>
+
+    <item
+        android:id="@+id/upload"
+        android:icon="@drawable/upload"
+        android:title="Upload"/>
+    <!-- <item
+         android:id="@+id/donate"
+         android:icon="@drawable/donate"
+         android:title="Donate"/>-->
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title="Profile"/>
+
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InternshipProject</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_home">Search</string>
+    <string name="title_dashboard"> Feed</string>
+    <string name="title_notifications">Upload</string>
+    <string name="title_activity_org">OrgActivity</string>
+    <string name="user_id">user_id</string>
+    <!-- Base application theme. -->
+</resources>
